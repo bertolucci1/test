@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bertolucci1/test.git/static/css/main.bf0095ea.chunk.css",
+    "main.js": "/bertolucci1/test.git/static/js/main.4d0f961f.chunk.js",
+    "main.js.map": "/bertolucci1/test.git/static/js/main.4d0f961f.chunk.js.map",
+    "runtime-main.js": "/bertolucci1/test.git/static/js/runtime-main.31f47763.js",
+    "runtime-main.js.map": "/bertolucci1/test.git/static/js/runtime-main.31f47763.js.map",
+    "static/js/2.4ee44813.chunk.js": "/bertolucci1/test.git/static/js/2.4ee44813.chunk.js",
+    "static/js/2.4ee44813.chunk.js.map": "/bertolucci1/test.git/static/js/2.4ee44813.chunk.js.map",
+    "index.html": "/bertolucci1/test.git/index.html",
+    "precache-manifest.c20433b4dbb4250899dcaf0dac73c8b0.js": "/bertolucci1/test.git/precache-manifest.c20433b4dbb4250899dcaf0dac73c8b0.js",
+    "service-worker.js": "/bertolucci1/test.git/service-worker.js",
+    "static/css/main.bf0095ea.chunk.css.map": "/bertolucci1/test.git/static/css/main.bf0095ea.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31f47763.js",
+    "static/js/2.4ee44813.chunk.js",
+    "static/css/main.bf0095ea.chunk.css",
+    "static/js/main.4d0f961f.chunk.js"
+  ]
+}
